@@ -14,7 +14,6 @@ A product concept for attracting customers to the Plan B mobile tariff and incre
 
 ### 🖼️ [UI mockups](#prototype) · 📄 [Solution presentation](materials/presentation.ru.pdf)
 
-<br>
 
 ## 🎯 Task
 
@@ -35,8 +34,6 @@ Connect user groups, an internal currency called “pollen,” personalized bonu
 | 🐝 Hive | Shared bonuses and groups with other users | Motivation to invite friends |
 | 🎟️ Apiary | Events and tickets purchased with “pollen” | Repeat visits to the mini-app and participation in the community |
 | 🎨 Avatar and bonuses | Bee avatar customization and bonuses tailored to personal interests | Increased engagement |
-
-<br>
 
 <a name="prototype"></a>
 
@@ -93,8 +90,6 @@ The team solution includes:
 | Project budget | RUB 5 million |
 
 </details>
-
-<br>
 
 ## 📂 Materials
 
