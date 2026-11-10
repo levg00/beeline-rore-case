@@ -14,8 +14,6 @@ A product concept for attracting customers to the Plan B mobile tariff and incre
 
 ### 🖼️ [UI mockups](#prototype) · 📄 [Solution presentation](materials/presentation.ru.pdf)
 
-<br>
-
 ## 🎯 Task
 
 Increase the tariff's appeal and user activity in the mini-app while achieving a positive financial result.
@@ -36,7 +34,6 @@ Connect user groups, an internal currency called “pollen,” personalized bonu
 | 🎟️ Apiary | Events and tickets purchased with “pollen” | Repeat visits to the mini-app and participation in the community |
 | 🎨 Avatar and bonuses | Bee avatar customization and bonuses tailored to personal interests | Increased engagement |
 
-<br>
 
 <a name="prototype"></a>
 
@@ -94,7 +91,6 @@ The team solution includes:
 
 </details>
 
-<br>
 
 ## 📂 Materials
 
