@@ -1,4 +1,8 @@
-# Билайн / RORE — развитие тарифа «План Б»
+<h1>
+  <a href="README.md"><img align="right" src="https://raw.githubusercontent.com/levg00/levg00/main/assets/lang-en-inactive-clean.svg" alt="EN"></a>
+  <a href="README.ru.md"><img align="right" src="https://raw.githubusercontent.com/levg00/levg00/main/assets/lang-ru-active-clean.svg" alt="RU"></a>
+  Билайн / RORE — развитие тарифа «План Б»
+</h1>
 
 [↩ Прикладные проекты](https://github.com/levg00/levg00/blob/main/portfolio/applied.ru.md)
 
