@@ -14,6 +14,8 @@ A product concept for attracting customers to the Plan B mobile tariff and incre
 
 ### 🖼️ [UI mockups](#prototype) · 📄 [Solution presentation](materials/presentation.ru.pdf)
 
+<br>
+
 ## 🎯 Task
 
 Increase the tariff's appeal and user activity in the mini-app while achieving a positive financial result.
@@ -34,31 +36,32 @@ Connect user groups, an internal currency called “pollen,” personalized bonu
 | 🎟️ Apiary | Events and tickets purchased with “pollen” | Repeat visits to the mini-app and participation in the community |
 | 🎨 Avatar and bonuses | Bee avatar customization and bonuses tailored to personal interests | Increased engagement |
 
+<br>
 
 <a name="prototype"></a>
 
 ## 🖼️ UI mockups
 
-The visual mockups were created in **Adobe Photoshop** and are included in the presentation. Original mockups and presentation are in Russian.
+The visual mockups were created in **Adobe Photoshop** and are included in the presentation. The mockups below are translated into English; the original presentation is in Russian.
 
 **Hive section:** groups with other users, an internal currency balance, and bonuses tailored to personal interests.
 
-[![Hive section mockup from the team presentation](assets/hive.ru.png)](materials/presentation.ru.pdf)
+[![Hive section mockup from the team presentation](assets/hive.en.png)](materials/presentation.ru.pdf)
 
 <details>
 <summary><b>👀 Other mockups: Avatar, Apiary, and bonuses</b></summary>
 
 **Avatar:** customizing the bee's appearance.
 
-![Avatar section mockup](assets/avatar.ru.png)
+![Avatar section mockup](assets/avatar.en.png)
 
 **Apiary:** an event schedule and tickets purchased with the internal currency.
 
-![Apiary section mockup](assets/events.ru.png)
+![Apiary section mockup](assets/events.en.png)
 
 **Bonuses:** choosing rewards based on personal interests.
 
-![Bonus selection mockup](assets/bonuses.ru.png)
+![Bonus selection mockup](assets/bonuses.en.png)
 
 </details>
 
@@ -91,6 +94,7 @@ The team solution includes:
 
 </details>
 
+<br>
 
 ## 📂 Materials
 
@@ -104,10 +108,10 @@ README.md                      — project description in English
 README.ru.md                   — project description in Russian
 assets/my-contribution.en.svg  — contribution banner in English
 assets/my-contribution.ru.svg  — contribution banner in Russian
-assets/hive.ru.png             — Hive section
-assets/avatar.ru.png           — Avatar section
-assets/events.ru.png           — Apiary section
-assets/bonuses.ru.png          — bonus selection
+assets/hive.en.png             — Hive section in English
+assets/avatar.en.png           — Avatar section in English
+assets/events.en.png           — Apiary section in English
+assets/bonuses.en.png          — bonus selection in English
 materials/presentation.ru.pdf  — original team presentation in Russian
 ```
 
