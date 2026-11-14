@@ -12,7 +12,7 @@ A product concept for attracting customers to the Plan B mobile tariff and incre
 
 ![My contribution: analytics, idea generation, and UI mockups](assets/my-contribution.en.svg)
 
-### 🖼️ [UI mockups](#prototype) · 📄 [Solution presentation](materials/presentation.ru.pdf)
+### 🖼️ [UI mockups](#prototype) · 📄 [Solution presentation](materials/presentation.en.pdf)
 
 
 ## 🎯 Task
@@ -39,11 +39,11 @@ Connect user groups, an internal currency called “pollen,” personalized bonu
 
 ## 🖼️ UI mockups
 
-The visual mockups were created in **Adobe Photoshop** and are included in the presentation. The mockups below are translated into English; the original presentation is in Russian.
+The visual mockups were created in **Adobe Photoshop** and are included in the presentation. The mockups and presentation below are translated into English.
 
 **Hive section:** groups with other users, an internal currency balance, and bonuses tailored to personal interests.
 
-[![Hive section mockup from the team presentation](assets/hive.en.png)](materials/presentation.ru.pdf)
+[![Hive section mockup from the team presentation](assets/hive.en.png)](materials/presentation.en.pdf)
 
 <details>
 <summary><b>👀 Other mockups: Avatar, Apiary, and bonuses</b></summary>
@@ -93,7 +93,7 @@ The team solution includes:
 
 ## 📂 Materials
 
-- [Original presentation — 34 slides, in Russian](materials/presentation.ru.pdf).
+- [Solution presentation — 34 slides, in English](materials/presentation.en.pdf).
 
 <details>
 <summary><b>Files</b></summary>
@@ -107,7 +107,7 @@ assets/hive.en.png             — Hive section in English
 assets/avatar.en.png           — Avatar section in English
 assets/events.en.png           — Apiary section in English
 assets/bonuses.en.png          — bonus selection in English
-materials/presentation.ru.pdf  — original team presentation in Russian
+materials/presentation.en.pdf  — team presentation in English
 ```
 
 </details>
